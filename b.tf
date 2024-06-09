@@ -6,4 +6,5 @@ resource "aws_instance" "rendered_tags" {
     yor_name  = "rendered_tags"
     yor_trace = "50fe3ea3-477a-4275-8d75-9f08aef822ff"
   })
+  
 }
